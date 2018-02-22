@@ -10,6 +10,7 @@ public class Car {
 
     public void setModel(String model) {
         String validModel = model.toLowerCase();
+        // .equals is a special comparative method in java it seems
         if(validModel.equals("carrera") || validModel.equals("tesla")) {
             this.model = model;
         } else {
