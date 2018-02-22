@@ -5,6 +5,7 @@ public class Main {
     public static void main(String[] args) {
         Car porsche = new Car();
         Car tesla = new Car();
-        porsche.doors = 4;
+        porsche.setModel("911");
+        System.out.println("Model is " + porsche.getModel());
     }
 }
