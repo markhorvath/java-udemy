@@ -16,6 +16,10 @@ public class Account {
         System.out.println("Empty constructor called");
     }
 
+    public Account(String name, String email, String phone) {
+        this("99999", 100.55, name, email, phone);
+    }
+
     public Account(String number, double balance, String name, String email, String phone) {
         System.out.println("Account constructor with parameters called.");
         this.number = number;
@@ -83,6 +87,9 @@ public class Account {
         }
 
     }
+
+
+
 
 
 }
