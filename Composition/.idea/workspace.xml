@@ -66,11 +66,12 @@
       <file leaf-file-name="Case.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Case.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="30" lean-forward="false" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+            <state relative-caret-position="111">
+              <caret line="19" column="10" lean-forward="false" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="10" />
               <folding>
                 <element signature="e#455#456#0" expanded="true" />
                 <element signature="e#514#515#0" expanded="true" />
+                <element signature="e#546#547#0" expanded="true" />
                 <element signature="e#574#575#0" expanded="true" />
                 <element signature="e#613#614#0" expanded="true" />
                 <element signature="e#648#649#0" expanded="true" />
@@ -146,15 +147,15 @@
         <option value="$PROJECT_DIR$/src/com/company/Motherboard.java" />
         <option value="$PROJECT_DIR$/src/com/company/Monitor.java" />
         <option value="$PROJECT_DIR$/src/com/company/Resolution.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Case.java" />
         <option value="$PROJECT_DIR$/src/com/company/Dimensions.java" />
         <option value="$PROJECT_DIR$/src/com/company/PC.java" />
         <option value="$PROJECT_DIR$/src/com/company/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Case.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="232" />
+    <option name="x" value="7" />
     <option name="y" value="23" />
     <option name="width" value="1400" />
     <option name="height" value="800" />
@@ -327,7 +328,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="232" y="23" width="1400" height="800" extended-state="0" />
+    <frame x="7" y="23" width="1400" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -339,7 +340,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -466,11 +467,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Case.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="30" lean-forward="false" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+        <state relative-caret-position="111">
+          <caret line="19" column="10" lean-forward="false" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="10" />
           <folding>
             <element signature="e#455#456#0" expanded="true" />
             <element signature="e#514#515#0" expanded="true" />
+            <element signature="e#546#547#0" expanded="true" />
             <element signature="e#574#575#0" expanded="true" />
             <element signature="e#613#614#0" expanded="true" />
             <element signature="e#648#649#0" expanded="true" />
