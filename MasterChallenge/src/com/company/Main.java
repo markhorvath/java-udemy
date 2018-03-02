@@ -21,5 +21,9 @@ public class Main {
 
 		double veggiePrice = veggie.calcHamburgerPrice();
 		System.out.println("Total hamburger price is $" + String.format ("%.2f", veggiePrice));
+
+		DeluxeBurger deluxe = new DeluxeBurger();
+		deluxe.addAddition3("shouldnt do this", 5.00);
+		deluxe.calcHamburgerPrice();
     }
 }
