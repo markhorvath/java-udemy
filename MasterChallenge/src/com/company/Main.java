@@ -25,5 +25,7 @@ public class Main {
 		DeluxeBurger deluxe = new DeluxeBurger();
 		deluxe.addAddition3("shouldnt do this", 5.00);
 		deluxe.calcHamburgerPrice();
+		double deluxePrice = deluxe.calcHamburgerPrice();
+		System.out.println("Total Deluxe Price is " + String.format ("%.2f", deluxePrice));
     }
 }
